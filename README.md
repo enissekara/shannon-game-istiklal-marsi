@@ -19,15 +19,6 @@ Proje Python ile yazılmıştır ve doğal dil işleme (NLP) ile bilgi teorisi k
 
 ---
 
-##  Ekran Görüntüleri
-
-###  Tahmin Başarı Oranı Grafiği
-![pie-chart](./assets/pie-chart-example.png)
-
-###  Harf Bazlı Tahmin Başarısı
-![bar-chart](./assets/bar-chart-example.png)
-
----
 
 ##  Kullanılan Teknolojiler
 
